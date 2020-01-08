@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bitcod3r/ng-hongkong/issues"
   },
-  "homepage": "https://github.com/bitcod3r/ng-hongkong#readme"
+  "homepage": "https://github.com/bitcod3r/ng-hongkong#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
 }
