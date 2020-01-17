@@ -2,7 +2,7 @@
   "name": "ng-hongkong",
   "version": "1.0.1",
   "description": "Certification Tests for University of Hong Kong",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -20,5 +20,6 @@
   "homepage": "https://github.com/bitcod3r/ng-hongkong#readme",
   "devDependencies": {
     "lite-server": "^2.5.4"
-  }
+  },
+  "dependencies": {}
 }
